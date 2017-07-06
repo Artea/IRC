@@ -1,2 +1,2 @@
-# IRC
-IRC
+# myIRC
+IRC Stuff
